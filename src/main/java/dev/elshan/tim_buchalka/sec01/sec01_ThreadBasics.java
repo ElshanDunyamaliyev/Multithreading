@@ -1,4 +1,4 @@
-package dev.elshan.tim_buchalka;
+package dev.elshan.tim_buchalka.sec01;
 
 public class sec01_ThreadBasics {
     public static void main(String[] args) {
